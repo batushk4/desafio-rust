@@ -23,6 +23,7 @@ Novas verificações foram adicionadas ao Clippy, uma ferramenta de linting para
 4. cargo clean = remove/limpa todos os arquivos da pasta "target"
 5. tree . = mostra a árvore de diretório
 6. tree . -I nome_da_pasta = mostra a árvore de diretório sem a pasta que excluiu
+7. rustfmt nome_do_arquivo = formata o código do arquivo
 
 ### Observações do curso
 
@@ -31,3 +32,7 @@ Novas verificações foram adicionadas ao Clippy, uma ferramenta de linting para
 ### Referência do curso
 
 [Documentação da Linguagem Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html)
+
+#### Prompt GPT 
+
+[Pesquisa 27/03/2024](https://chat.openai.com/share/34f65077-4a5a-4ac4-954c-cf09ea3a1b80): 
